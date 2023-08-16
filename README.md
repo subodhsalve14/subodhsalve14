@@ -6,9 +6,9 @@
 
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 🌱 I’m currently learning React and exploring web3 ✌️
+- 🌱 I’m currently learning React and Backend ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
-- 💬 Ask me about Web and Finance 😁
+- 💬 Ask me about Web 😁
 - ⚡ Fun fact: I ❤️ food, travelling and Politics :rotating_light:
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
@@ -41,32 +41,6 @@
 ![](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react%20studio%20code&logoColor=white)
 
 <br>
-
-<br>
-
-
-## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
-
-   
-   <p align="center" >
- <a href="#"><img alt="Subodh Salve's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subodhsalve14&theme=react&langs_count=5&layout=compact" /></p>
-  
-  <p align="center" >
-  <a href="#"><img  alt="Subodh Salve's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=subodhsalve14&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></p>
-    
-<p align="center" >
-  <a href="#">
-  <a href="https://github.com/subodhsalve14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subodhsalve14&theme=react&langs_count=5&layout=compact" alt="Subodh Salve's github stats" align = "center" /></a></p>
-
-
-<br />
-
-<br>
-<a><img src="https://img.shields.io/github/followers/subodhsalve14?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=subodhsalve14&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Have a great day <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
 
