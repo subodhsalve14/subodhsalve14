@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React and Backend ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
 - 💬 Ask me about Web 😁
-- ⚡ Fun fact: I ❤️ food, travelling and Politics :rotating_light:
+
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/subodhsalve14/" target="_blank" >
